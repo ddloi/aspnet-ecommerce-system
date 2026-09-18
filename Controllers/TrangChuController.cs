@@ -110,7 +110,7 @@ namespace ShopOnline.Controllers
                     p.ImagePro,
                     p.Price
                 })
-                .Take(5)
+                .Take(8)
                 .ToList();
 
             return Json(suggestions, JsonRequestBehavior.AllowGet);
