@@ -17,7 +17,7 @@
 ## 📸 Application Screenshot & UI Showcase
 
 <p align="center">
-  <img src="pictures/Screenshot%20(41).png" alt="ShopMart Application Preview" width="95%" />
+  <img src="pictures/storefront_demo.png" alt="ShopMart Application Preview" width="95%" />
   <br/>
   <em>Figure 1: E-Commerce Storefront — Product catalog, navigation filters, shopping cart, and transaction checkout.</em>
 </p>
